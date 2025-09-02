@@ -1,6 +1,8 @@
+
 This project contains three python problems. Each problem takes user input and print the results.
 
 Problems Covered:
+
 1.) Alphabet Soup Problem
 This program takes a word from the user and returns its letters in alphabetical order.
 Ex.
